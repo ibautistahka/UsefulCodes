@@ -29,7 +29,7 @@ $Launch_Mail::Send {Media_Prev}
 
 
 ;Browser_Stop
-^Launch_Mail::
+^Browser_Stop::
     SendInput, {Browser_Stop}
     Return
 
