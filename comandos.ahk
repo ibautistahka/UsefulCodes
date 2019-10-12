@@ -1,10 +1,3 @@
-;F10
-^F10::
-    SendInput, {F10}
-    Return
-
-$F10::Send {Volume_Mute}
-
 ;Browser_Back
 ^Browser_Back::
     SendInput, {Browser_Back}
